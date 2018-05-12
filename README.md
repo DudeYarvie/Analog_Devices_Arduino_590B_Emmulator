@@ -11,3 +11,11 @@ Reference Links:
 2). DC590B referece page: http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc590b.html#eb-overview
 
 3). DC2606 (Linduino) reference page: http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc2290a-a.html
+
+
+Usage:
+  1. Embed the Arduino UNO with the "Arduino_UNO_DC590_Emmulator.ino" using the Arduino IDE v1.8.4 or later
+  2. Obtain Python 2.7 (may work with more recent versions)
+  3. Open Connect_to_arduino_DC590.py and note that one can send I2C or SPI transactions using ascii commands (UNO must be connected to PC    using USB cable).
+  
+  NOTE: All commands and functions are listed in the firmware.  One must edit the firmware to add/remove/modify uC command set and           functionality.
