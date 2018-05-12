@@ -3,5 +3,7 @@ ADI/Linear Technologies offers an open-source "LinearLab Tools" set for using Py
 
 Reference Links:
 1). LinearLab Tools Download: http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-platforms/linearlab-tools.html
+
 2). DC590B referece page:http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc590b.html#eb-overview
+
 3). DC2606 (Linduino) reference page: http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc2290a-a.html
